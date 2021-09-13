@@ -1,0 +1,30 @@
+body {
+    background-color: blanchedalmond;
+}
+
+footer {
+    margin-top: 50px;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    border-style: double;
+    border-width: 5px;
+}
+
+p {
+    text-align: center;
+    font-size: 15px;
+    font-family: 'Courier New', Courier, monospace;
+}
